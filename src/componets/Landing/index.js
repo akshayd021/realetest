@@ -1,2 +1,3 @@
 import SearchBar from "./Search";
-export { SearchBar };
+import SaleRent from "./SaleRent";
+export { SearchBar, SaleRent };

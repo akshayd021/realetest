@@ -1,4 +1,5 @@
-import Navbar from "./Navbar";
-import { SearchBar } from "./Landing";
 
-export {Navbar,SearchBar}
+import { SearchBar, SaleRent } from "./Landing";
+import { Navbar } from "./Navbar";
+
+export {Navbar,SearchBar , SaleRent}
